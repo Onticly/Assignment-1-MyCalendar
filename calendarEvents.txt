@@ -1,0 +1,9 @@
+01/01 New_Year's_Day
+01/17 Martin_Luther_King,_Jr._Day
+02/21 President's_Day
+05/30 Memorial_Day
+07/04 Independence_Day
+09/05 Labor_Day
+11/11 Veterans_Day
+11/24 Thanksgiving_Day
+12/25 Christmas_Day
